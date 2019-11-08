@@ -1,5 +1,3 @@
-# Giphy-API-App
-
 # GIFbusters!
 Bust out some GIFs with your favorite Ghostbusters references!
 
